@@ -37,3 +37,9 @@ The man's problem is that he is the fresh student and didn't know where the clas
 The artists usually combine or manipulate some visual elements like colors and texture to convey a message or create a mood for an art work. According to the professor, one of this is the use of color. Colors appeal in different ways to the senses and thus can convey/communicate meanings, so artists use different colors to evoke different emotions. For example, red is a strong color, and artists thus use it to evoke strong emotions like anger and excitement, while blue, a cool color, has a calming effect on people. The other is the texture of a painting, an visual illusion created by the artists like roughness or softness. This can also evoke different emotions. Roughness stimulates stronger emotion, while smoothness the other way round. When artists combine these two elements together, they can create a painting that expresses wilder and more chaotic emotions by using red, orange as well as wide sweeping brushstrokes, or they can create a cooler painting with pale colors like blue and soft brush strokes. 
 
 Okay so that is all I have for you guys today and I hope you guys learned something useful.
+
+__Some Pattern__
+* You got some nerve talking to the teacher like that. 吃了熊心豹子胆
+* She's really got nervers made out of steel. 沉得住气
+* He really gets on my nerves. 让我很糟心
+
