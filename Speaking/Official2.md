@@ -1,9 +1,8 @@
-# Official One
-**What do you miss most about your home when you are away? Use specific details in your explanation.**
+# Official Two
+Question
+**Talk about a time a friend or a family member helped you in the past. Describe how the person helped you then explain why this was important to you.**
 
-
-When talk about the things I miss most when I am away home. The very first one coming to my mind is the music. As for why, I suppose that's because I have a complete set of audio equipment in my house, including amplifier, stereo and high quality audio cable. And I like the beat and melodies they produce. To be more specific, as a college student, I am always preoccupied with my academic study. In this case, I'm just confronted with overwhelming pressure. By enjoying the music in my home, I can get some relaxation and better focus on my future study as well, thereby improving my study efficiency to a larger extent.
-
+When talk about this topic, the very first one comming to my mind is my friend Qinye Tang, who working at a hedge fund. As for why, I suppose that's because he is intelligent and  helped me build a set of logic to solve the problems. To be more specific, before I met him, I was just a coach potato who binge watching TV on the sofa. I can hardly solve the problem I have not encountered and all I can do is ask the teacher for help. Once I have an programming assignment about the link list and I can't even write one line code. He demonstrated his solution from the idea to the implemention and I could learn to solve the problem step by step. After that, I learnd how to solve problems with my own strength. I am honored to have such a friend.
 
 **Many universities now offer academic courses over the Internet. However, some people still prefer learning in traditional classrooms. Which do you think is better? Explain why.**
 
@@ -39,7 +38,5 @@ The artists usually combine or manipulate some visual elements like colors and t
 Okay so that is all I have for you guys today and I hope you guys learned something useful.
 
 __Some Pattern__
-* You got some nerve talking to the teacher like that. 吃了熊心豹子胆
-* She's really got nervers made out of steel. 沉得住气
-* He really gets on my nerves. 让我很糟心
+* In my observation, many of my friends have become couch potatoes who binge watching TV series on the sofa.
 
