@@ -4,15 +4,15 @@ Question
 
 When talk about this topic, the very first one comming to my mind is my friend Qinye Tang, who working at a hedge fund. As for why, I suppose that's because he is intelligent and  helped me build a set of logic to solve the problems. To be more specific, before I met him, I was just a coach potato who binge watching TV on the sofa. I can hardly solve the problem I have not encountered and all I can do is ask the teacher for help. Once I have an programming assignment about the link list and I can't even write one line code. He demonstrated his solution from the idea to the implemention and I could learn to solve the problem step by step. After that, I learnd how to solve problems with my own strength. I am honored to have such a friend.
 
-**Many universities now offer academic courses over the Internet. However, some people still prefer learning in traditional classrooms. Which do you think is better? Explain why.**
+**Some people enjoy taking risk and trying new things, others are not adventurous, they are cautious and try to avoid danger. Which behavior do you think is better? Explain why.**
 
-online:
+risk:
 * speed and learing process
 * adjustable time and place
 * high density of knowledge
 * easy to access
 
-traditional:
+non-risk:
 * classmates with the same level
 * deeper understanding of the problem
 * ask the the teacher more details (interaction)
