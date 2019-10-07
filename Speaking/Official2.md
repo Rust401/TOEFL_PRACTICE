@@ -7,18 +7,18 @@ When talk about this topic, the very first one comming to my mind is my friend Q
 **Some people enjoy taking risk and trying new things, others are not adventurous, they are cautious and try to avoid danger. Which behavior do you think is better? Explain why.**
 
 risk:
-* speed and learing process
-* adjustable time and place
-* high density of knowledge
-* easy to access
+* tend to get more profit
+* handle specific situation and scene
+* diversity life
+* tend to learn new thins
 
 non-risk:
-* classmates with the same level
-* deeper understanding of the problem
-* ask the the teacher more details (interaction)
-* mandatory
+* no tendency to be hurt
+* stable property
+* easy life
+* more energy to a specific region
 
-When talk about the online teaching and traditional teaching, the debate has never stop. But I prefer learing in traditional classroom. As for why, I suppose that's mainly because the interactivity and mandatory. To be more specific, by learning in the traditional classroom, I can interact with teachers directly. When I am confused on some knowledge point, I could just raise up my hand to express my confusing and get the teacher's reply. But I could only input the keywords in the search engine to find something I really need if I attend an Internet course. Besides, the tradtional course has a fixed timetable and requires students to attend on time. Students can complete their studies and assignments under the guidence of the timetable. This will allviate the students' burden because they have no need to re arrange their timetable. In summary, I prefer the traditional teaching.
+I prefer to take risks and try new things. As for why, I suppose that's because taking risks is a way to improve oneself, a way to broaden one's horizon. Take the Columbia for example. If he hadn't take risks to west, the new continent may not be discoverd. The new crops we are familiar with now which were planted in the western continent will not be brought back. Besides, trying new things is a good way to learn new skills. I was a boring couch potato who binge watching TV series on the sofa before. I hated to read new books or even watch new movie. Then I decided to dirve myself out of the comfort zone and try some movies. And I'm fortuinate that I gained some new problem-solving skills and learnd some novel perspective. By enjoying that, I can get some relaxation and better focus on my future study as well, thereby improving my study efficiency to a large extent. So I prefer to take risks and try new things.
 
 
 **The computer department is considering a scheduling change. Explain the man’s opinion of the change and the reasons he gives for holding that opinion.**  
