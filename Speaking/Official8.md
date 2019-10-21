@@ -13,7 +13,7 @@ don't have to worry about     how to make a living
 free from stress or anxiety not the breadwinner
 
 second
-enjoy pure(pristine and sincere friendship)  little buddies  live next door(nearby)
+enjoy pure(pristine and sincere friendship)  little buddies  live next door to you(nearby)
 less competition comparison peer pressure   among little kids
 loved cherished pampered
 
@@ -36,7 +36,7 @@ before marriage:
 spend salary for fun
 love traveling   ->  plan 3-4  trips a year
 but considered buying a house - > get into marrige
-found nothing from my bank savings-> I found myself in total dispair -> loaned a lot of money from the bank
+found nothing from my bank savings-> I felt myself in total despair -> loaned a lot of money from the bank
 
 after loan:
 life changed
@@ -214,3 +214,106 @@ second:
 Some people may believe that they only attend college part-time, but I disagree. I don't understand how university students can expect to learn anything if they don't attend colleges for full-time. First, in college they gain the benefit of the professor's knowledge preferentially. The best professors do more than just go over the material in the textbooks. Also, attending colleges on any subject teaches more than just facts. It teaches students how to learn, how to absorb information and then apply what they've learned to other situations. Personal experience can help people learn about themselves and the world outside the classroom, but when it comes to learning about academic subjects, students need to be in college better for a longer time. At last, if you just attend college for part-time, then you will miss important events and chances to make friends. It is hard to keep the same pace with others. So, I will choose to attend college for full-time.
 
 
+**Some people prefer living in a big city. Other people prefer living in the countryside, away from urban areas. Which do you think is better? Explain why, using specific details in your explanation.**
+
+```
+first
+    healthier environment
+    suffer air and water pollution  
+    caused by high speeding development of industry
+second
+    slow pace of life
+    pedestrians always walkong fast     unwilling to stop
+    
+    don't confronted with overwhelming pressure
+    don't have to deal with the high pressure resulted from walking and living
+    much comfortable
+```
+Compared to living in a city, I would like to live in the countryside. The reasons are as below. Firstly, living in the countryside means we can appreciate the healthier environment. Nowadays, people living in city have to suffer the air and water pollution caused by the high speeding development of industry. Secondly, we can enjoy the slow pace of life in the countryside. In big cities, pedestrians are always walking fast and it seems like they would feel unwilling to stop. But with the easy life style of countryside, they don’t have to deal with the high pressure resulted from working and living. So it’ll be much more comfortable to live there. That’s why I prefer to live in the countryside.
+
+
+**Some people believe it is important for university to provide funding for student entertainment, such as movies or concerts on campus. Others believe that university money should only be used for academic purposes. Which view do you agree with? Explain why.**
+
+```txt
+first
+really stressful
+preoccupied with academic studies   confronted with overwhelming pressure
+movies and concerts and help them get some relaxation
+better focus on future studies
+improve the efficiency to a large extent
+
+second
+healthier to spend leisure time doing such entertaining thins
+stay at dorm    hang out in the library   -> boring
+hold some interesting events  ->  goog way to kill time
+```
+
+
+In my opinion, the money should be used in entertainment rather than academic purpose. The reasons are as below. To start, college life can be really stressful, students have so many classes and assignments each day, so a little movies or concerts can do a lot good to them. Help them easy up and remain a better mood. So it’s a good way to balance their study and life. Furthermore, it’ll be healthier to spend their leisure time doing such entertaining things, otherwise, they may stay at their dorm or hang out in the library, which is a little boring, and if the university can hold some interesting events, it’ll be a good way to kill time.
+
+
+**Some people think that materials printed on paper, such as books and newspapers, will one day be replaced by electronic versions of those materials. Others believe that printed materials will always be popular. Which point of view do you agree with? Explain why.**
+```txt
+books and newspapers will be replaced
+resources & energy saving
+first
+    the decreasing of the paper demand-> inhibate the decay of the forest & use less energy during the process
+second
+    convenient to reproduce the information with low cost and high speed
+    store the book file in the cloud server
+    using triple backup and remote disaster recovery
+```
+I agree with the statement that materials printed on paper, such as books and newspapers will one day be replaced by electronic versions of those materials. As for why, I suppose there are two reasons. First, it's more energy and resources saving to use electronic version. The decreasing of the paper demand will inhibate the persistent decay of the forest. And the energy cost during the producing will be decreased. Second, it's convenient to reproduce the information with low cost and high speed. And we could store the book files in the cloud server using triple backup and remote diaster recovery. It's safe and conveinient. Based the reasons above. I think the electronic version of books will have a better future.
+
+
+**If you were given the choice of a school or work assignment, would you prefer to write a long report or give a speech in front of a large group of people? Use details and examples to explain your choice.**
+
+```txt
+first:
+recite my words lots of times practice repeatedly
+tend to forget what i want to say when I'm standing on the stage
+
+writing a long report -> learn more knowledge about the details
+research a lot  and creafully organize my paper
+
+choose a long report as my assignment
+```
+
+I would rather to choose the long report rather than a speech. One reason is as for me, I don’t like speak in public. Speaking in public means I have to recite my words lots of time and practice repeatedly for I’m afraid to forget what I want to say when I’m standing on the stage. Second reason is I think writing a long report will help me learn more knowledge than just prepare a speech. To finish a report I need to research a lot and carefully organize my paper. So I will choose a long report as my assignment. 
+
+**Do you agree or disagree with the following statement?It is more enjoyable for students to read works of fiction (such as novels and stories) than nonfiction. Use specific examples and details to support your opinion.**
+
+```txt
+first
+    form relevant pictures in their mind
+    The Great Gatsby,  necessary for them to shape the luxury situation of Gatsby's mansion
+second
+    learn some useful narrative techniques
+    can learn the method of flashbacks and use it in their own creation
+    
+more enjoybale for students to read fiction
+
+```
+
+I agree with the statement that it is more enjoyable for students to read fiction than nonfiction. One reason is when students are reading fiction stories, they will form relevant pictures in their mind. For example, when they are reading The Great Gatsby, it is necessary for them to shape the luxury situation of Gatsby’s mansion. Second reason is reading fictions can help students to learn some useful narrative techniques. For example students can learn the method of flashbacks and use it in their own creation. This is why I think it is more enjoyable for students to read fiction.
+
+
+
+**Do you agree or disagree with the following statement? Students will learn more if the teachers is kind and friendly. Use specific examples and details to support opinion.**
+
+```txt
+first
+    kind teacher -> gain student's love and respect
+    as the old saying goes    love me, love my dog
+    be willing to listen to the teachers they like in class
+second
+    faced with difficult questions
+    more likely to ask teachers they consider nice to them
+    if regard one teacher as a strict and bad-tempered person
+    avoid asking him questions
+
+    so -> conclusion
+```
+
+
+I agree that students will learn more if teachers are kind and friendly. First, kind teachers will gain students’ love and respect. Just as the old saying goes: “Love me, love my dog.” Students will be more willing to listen to the teachers they like in class. Second, when students are faced with difficult questions, they are more likely to ask teachers they consider nice to them. If they regard one teacher as a strict and bad-tempered person, they will avoid asking him questions. So kind and friendly teachers can actually help students to learn more knowledge.
